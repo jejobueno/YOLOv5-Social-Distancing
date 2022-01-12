@@ -15,7 +15,6 @@ import torch
 from flask import Flask, request, Response
 from PIL import Image
 from itertools import combinations
-
 # Using feed from local webcam
 
 
